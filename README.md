@@ -51,11 +51,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/paresh954/paresh954/blob/output/github-contribution-grid-snake1.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ## 🔥 Featured Projects  
