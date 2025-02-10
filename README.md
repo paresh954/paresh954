@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Paresh Daki 👋</h1>
 <p align="center">
-  <i>A passionate Frontend Developer & Tech Enthusiast 🚀</i>
+  <i>A passionate React.js Developer & Tech Enthusiast 🚀</i>
 </p>
 
 <!-- Social Links -->
