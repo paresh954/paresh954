@@ -18,9 +18,11 @@
 ## 🛠️ About Me
 - 💻 I’m currently learning **Node.js, MongoDB, and Redux**
 - 🎯 My goal is to become a **MERN Stack Developer**
-- 📫 Reach me at **paresh954@example.com**
+- 📫 Reach me at **dakiparesh84@gmail.com**
 - 🎨 I love working on **aesthetic UI/UX designs**
-- 🔥 Fun fact: I create **YouTube content** about tech & music!
+## 🔥 Fun fact: 
+- 🎬 I love editing videos and creating aesthetic content.  
+- 🎧 Music is my therapy! I enjoy **lofi, slowed & reverb, and chill beats**.  
 
 ---
 
@@ -49,11 +51,15 @@
 ## 🔥 Featured Projects
 ### 🗨️ **Real-time Chat App**
 A full-stack chat application with **React, Node.js, Express, MongoDB & Socket.io**  
-🚀 [Live Demo](#) | 📂 [Source Code](#)
+🚀 [Live Demo](https://fullstack-chat-app-d88x.onrender.com/) | 📂 [Source Code](https://github.com/paresh954/fullstack-chat-app)
 
 ### 🛍️ **E-commerce Store**
 A modern e-commerce website built using **React & TailwindCSS**  
 🚀 [Live Demo](#) | 📂 [Source Code](#)
+
+### 🛍️ **Personal Portfolio **
+A modern Portfolio website built using **Html CSS & JavaScript**  
+🚀 [Live Demo](https://cerulean-nasturtium-c0675e.netlify.app/) | 📂 [Source Code](#)
 
 ---
 
@@ -66,7 +72,7 @@ A modern e-commerce website built using **React & TailwindCSS**
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="mailto:paresh954@example.com">
+  <a href="mailto:dakiparersh84@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/paresh954/">
