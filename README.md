@@ -16,24 +16,19 @@
 
 ---
 
-## 🚀 About Me
-- 💻 I’m a **Frontend Developer** with knowledge of **React.js, Redux, Tailwind, and more**
-- 🎯 Exploring **Node.js, MongoDB, and Express.js** for backend development
-- 🎨 Passionate about **aesthetic UI/UX designs**
-- 📫 Reach me at **dakiparesh84@gmail.com**
+## 🛠️ About Me  
+- 💻 I have knowledge of **React, Redux, Node.js, MongoDB, and Express.js**  
+- 🎯 My goal is to become a **MERN Stack Developer**  
+- 🎨 I love working on **aesthetic UI/UX designs**  
+- 📫 Reach me at **dakiparesh84@gmail.com**  
+
+## 🔥 Fun Fact  
+- 🎬 I enjoy video editing and creating aesthetic content  
+- 🎧 Music is my therapy! I vibe to **lofi, slowed & reverb, and chill beats**  
 
 ---
 
-## 🎨 Fun Facts
-- 🎬 I love **editing videos** and creating aesthetic content  
-- 🎧 Music is my therapy! **Lofi, slowed & reverb, and chill beats** keep me going  
-- 🎭 Exploring the world of **mysteries & unsolved phenomena**  
-- 🧩 Enjoy solving **frontend challenges** and making UI pixel-perfect  
-- 🍕 Can eat **pizza** anytime, anywhere! 😆  
-
----
-
-## 🛠️ Tech Stack
+## 🚀 Tech Stack  
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -48,39 +43,44 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paresh954&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paresh954&layout=compact&theme=radical" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paresh954&theme=github_dark"/>
 </div>
 
 ---
 
-## 🌟 Featured Projects
-### 🗨️ **Real-time Chat App**
-A full-stack **real-time chat application** built with **React, Node.js, Express, MongoDB & Socket.io**  
-🚀 [Live Demo](https://fullstack-chat-app-d88x.onrender.com/) | 📂 [Source Code](https://github.com/paresh954/fullstack-chat-app)  
-
-### 🛍️ **E-commerce Store**
-A **modern e-commerce website** built using **React & TailwindCSS**  
-🚀 [Live Demo](#) | 📂 [Source Code](#)  
-
-### 🎨 **Personal Portfolio**
-A **portfolio website** showcasing my projects and skills, built with **HTML, CSS & JavaScript**  
-🚀 [Live Demo](https://cerulean-nasturtium-c0675e.netlify.app/) | 📂 [Source Code](#)  
-
----
-
-## 🎨 GitHub Profile Aesthetics
+## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paresh954&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paresh954&theme=radical"/>
+  <img src="https://github.com/paresh954/paresh954/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
+## 🔥 Featured Projects  
+### 🗨️ Real-time Chat App  
+A full-stack chat application built using **React, Node.js, Express, MongoDB & Socket.io**  
+🚀 [Live Demo](https://fullstack-chat-app-d88x.onrender.com/) | 📂 [Source Code](https://github.com/paresh954/fullstack-chat-app)  
+
+### 🛍️ E-commerce Store  
+A modern e-commerce website built using **React & TailwindCSS**  
+🚀 [Live Demo](#) | 📂 [Source Code](#)  
+
+### 🌐 Personal Portfolio  
+A sleek, minimalistic portfolio website built with **HTML, CSS, & JavaScript**  
+🚀 [Live Demo](https://cerulean-nasturtium-c0675e.netlify.app/) | 📂 [Source Code](#)  
+
+---
+
+## 🎨 GitHub Profile Aesthetics  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paresh954&theme=github_dark"/>
+</p>
+
+---
+
+## 🤝 Connect with Me  
 <p align="center">
   <a href="mailto:dakiparesh84@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
