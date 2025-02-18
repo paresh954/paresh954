@@ -67,13 +67,13 @@
 A full-stack chat application built using **React, Node.js, Express, MongoDB & Socket.io**  
 🚀 [Live Demo](https://fullstack-chat-app-d88x.onrender.com/) | 📂 [Source Code](https://github.com/paresh954/fullstack-chat-app)  
 
-### 🛍️ E-commerce Store  
-A modern e-commerce website built using **React & TailwindCSS**  
-🚀 [Live Demo](#) | 📂 [Source Code](#)  
+### 🛍️ Real-time Spotify-message App 
+A full-stack Spotify clone with message features built using **React, Node.js, Express, MongoDB & Socket.io**  
+🚀 [Live Demo](https://realtime-spotify-clone-uwy0.onrender.com/) | 📂 [Source Code](https://github.com/paresh954/realtime-spotify-clone)  
 
 ### 🌐 Personal Portfolio  
 A sleek, minimalistic portfolio website built with **HTML, CSS, & JavaScript**  
-🚀 [Live Demo](https://cerulean-nasturtium-c0675e.netlify.app/) | 📂 [Source Code](#)  
+🚀 [Live Demo](https://cerulean-nasturtium-c0675e.netlify.app/) | 📂 [Source Code](https://github.com/paresh954/portfolio)  
 
 ---
 
