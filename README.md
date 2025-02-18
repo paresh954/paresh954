@@ -67,7 +67,7 @@
 A full-stack chat application built using **React, Node.js, Express, MongoDB & Socket.io**  
 🚀 [Live Demo](https://fullstack-chat-app-d88x.onrender.com/) | 📂 [Source Code](https://github.com/paresh954/fullstack-chat-app)  
 
-### 🛍️ Real-time Spotify-message App 
+### 🎧💬 Real-time Spotify-message App 
 A full-stack Spotify clone with message features built using **React, Node.js, Express, MongoDB & Socket.io**  
 🚀 [Live Demo](https://realtime-spotify-clone-uwy0.onrender.com/) | 📂 [Source Code](https://github.com/paresh954/realtime-spotify-clone)  
 
